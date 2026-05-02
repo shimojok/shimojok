@@ -41,6 +41,9 @@ I build architectures, dashboards, and operational systems that connect biology,
 - AquaGrid — Water‑cycle engineering × deep ocean mineral science
 - M3‑BioSynergy — Foundational microbial metabolic theory
 
+## 🌐 Links
+LinkedIn: https://www.linkedin.com/in/kaz-shimojo-bionexus
+
 ---
 
 ## 🇯🇵 日本語版プロフィール
