@@ -1,5 +1,10 @@
 <img src="assets/banner.png" width="100%" />
 
+## Contents
+- [English](#-kaz-shimojo--planetary-metabolic-systems-architect)
+- [日本語 / Japanese](#-日本語版プロフィール)
+
+
 ## 🌍 Kaz Shimojo — Planetary Metabolic Systems Architect
 
 ### Architecting planetary‑scale metabolic systems across agriculture, health, water, and climate‑finance.
