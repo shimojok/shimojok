@@ -40,3 +40,43 @@ I build architectures, dashboards, and operational systems that connect biology,
 - HealthBook — Metabolic telehealth platform
 - AquaGrid — Water‑cycle engineering × deep ocean mineral science
 - M3‑BioSynergy — Foundational microbial metabolic theory
+
+---
+
+## 🇯🇵 日本語版プロフィール
+
+### Kaz Shimojo — プラネタリーメタボリックシステム アーキテクト
+
+私は、再生型農業、微生物代謝工学、デジタルヘルス、水インフラ、  
+そして気候ファイナンスを統合する **地球規模のバイオ・デジタルシステム** を設計しています。
+
+主な領域：
+- MBT55 微生物代謝理論・フェノミクス  
+- AGRIX 再生型農業・カーボンポジティブ食料システム  
+- PBPE バイオセキュリティ・デジタル MRV  
+- HealthBook 代謝ヘルス・テレヘルス  
+- AquaGrid 水循環工学・深層海洋ミネラル研究  
+- Planetary Metabolic Operating System（PMOS）
+
+生物学・データ・インフラを統合し、持続可能な地球システムを構築しています。
+
+---
+
+## 🔭 現在取り組んでいるプロジェクト
+- Planetary Metabolic Operating System（PMOS）  
+- MBT55 インパクトモデル（食料価格・損失・健康コスト・栄養・農業経済）  
+- AGRIX 再生型農業プラットフォーム  
+- PBPE × MBT55 コーヒー生態系  
+- HealthBook 代謝ヘルス・テレヘルス  
+- AquaGrid 深層海洋ミネラル × 水循環工学  
+- M3-BioSynergy 基礎理論  
+
+---
+
+## 🧬 技術スタック
+- Python（Streamlit, FastAPI, 科学モデル, データエンジニアリング）  
+- Azure（Functions, Storage, App Services）  
+- GitHub Actions / Codespaces  
+- Snowflake / BigQuery  
+- 地球環境・気候データパイプライン  
+- 代謝・微生物・生態系モデル  
